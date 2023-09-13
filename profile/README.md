@@ -10,39 +10,23 @@ At PixlBytes, we believe that a well-designed website is the cornerstone of a su
 
 Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
-### 🦦 Contributing to the ecosystem
+### 🦦 What Sets Us Apart
 
-We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
+- **Experience**: With years of experience in the field, we have successfully completed numerous projects spanning various industries.
+- **Customization**: We understand that every project is unique. We tailor our services to meet your specific requirements and goals.
+- **Cutting-Edge Technology**: We stay up-to-date with the latest web technologies to ensure that your website is modern, responsive, and secure.
+- **Client-Centric Approach**: Your satisfaction is our top priority. We work closely with you, providing transparent communication and regular updates throughout the development process.
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+### ✨ Our Services
 
-### 👓 Appendix
+- **Website Development**: From simple portfolio sites to complex e-commerce platforms, we create websites that captivate your audience.
+- **Web Design**: Our designers craft visually appealing and user-centric designs that make your brand stand out.
+- **E-commerce Solutions**: We specialize in building robust online stores that drive sales and provide a seamless shopping experience.
+- **Custom Web Applications**: Whether it's a unique web app or a tailored content management system (CMS), we can build it.
+- **Digital Marketing**: We offer digital marketing services to help you reach a wider audience and boost your online presence.
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions 🙇‍♂️. Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers) 🙌.
+### 📞 Contact Us
 
-<details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
-	<br>
-	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
-		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
-			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
-			</ul>
-		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
-	</ul>
-</details>
-
----
-
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
-
-<!--
-Made with 🖤
-🙇‍♂️🎤⬇️
--->
+- **Email**: pixlbytescode@gmai.com
+- **Website**: soon
+- **Twitter**: soon
