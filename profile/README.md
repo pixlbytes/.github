@@ -41,5 +41,5 @@ Now that we are talking about the important things ☝️, are you contributing 
 ### 📞 Contact Us
 
 - **Email**: pixlbytescode@gmai.com
-- **Website**: soon
-- **Twitter**: soon
+- **Website**: [PixlBytes](pixelby.online)
+- **Twitter**: [PixlBytes](https://twitter.com/PixlBytes)
