@@ -40,6 +40,6 @@ Now that we are talking about the important things ☝️, are you contributing 
 
 ### 📞 Contact Us
 
-- **Email**: pixlbytescode@gmai.com
-- **Website**: [PixlBytes](pixelby.online)
+- **Email**: pixlbytescode@gmail.com
+- **Website**: [PixlBytes](https://pixelby.online/))
 - **Twitter**: [PixlBytes](https://twitter.com/PixlBytes)
